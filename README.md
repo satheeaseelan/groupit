@@ -7,6 +7,6 @@ version 1.0.1
 
 js fiddle link
 
-http://jsfiddle.net/satheeaseelan/7JdW5/
+http://jsfiddle.net/satheeaseelan/6UsV3/
 
 developed by samworks.in
