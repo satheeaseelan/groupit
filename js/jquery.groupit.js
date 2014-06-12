@@ -1,0 +1,1 @@
+jQuery.fn.groupit=function(options){while ($(this).children('.'+options.childClassName).length) {$(this).children('.'+options.childClassName+':lt('+options.countPerGroup+')').wrapAll('<div class="'+options.wrapperClassName+'" />');}};
